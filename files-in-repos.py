@@ -48,8 +48,8 @@ cube_root(8)
 #    return a * b
 
 # Then, execute this cell.
-from sample import rectangle
-rectangle(5, 4)
+from sample import rectangle2
+rectangle2(5, 4)
 
 # COMMAND ----------
 
