@@ -119,4 +119,4 @@ df.to_csv("data/wine_quality_red_2.csv")
 
 # COMMAND ----------
 
-
+#outro user
